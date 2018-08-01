@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TridentManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TridentBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TridentManager.cs" Line="35" Column="4" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerManagement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scorekeeping.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WallBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadSceneOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuitOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelectOnInput.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
